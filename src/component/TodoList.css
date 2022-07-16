@@ -1,0 +1,14 @@
+.todo_style button{
+    width: 2rem;
+    height: 2rem;
+    border-radius: 100%;
+    background: purple;
+    display: inline;
+}
+
+.todo_style li{
+    display: inline;
+}
+.todo_style button:hover{
+    background:red;
+}
